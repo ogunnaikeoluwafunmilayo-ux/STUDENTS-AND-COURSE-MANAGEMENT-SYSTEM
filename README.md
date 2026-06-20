@@ -10,7 +10,7 @@
 
 ## Project Overview
 A fully normalized relational database built for a simulated academic institution 
-to enable data-driven decisions across student management, course performance, 
+to enable data driven decisions across student management, course performance 
 and instructor evaluation.
 
 ---
@@ -71,7 +71,7 @@ Five normalized tables with Primary Keys and Foreign Keys:
 1. Integrate this SQL database with Power BI for live academic dashboards
 2. Build an early warning system to flag students scoring below 60
 3. Use enrollment data to balance instructor course loads
-4. Expand schema to include attendance, assignments, and semesters
+4. Expand schema to include attendance, assignments and semesters
 
 ---
 
